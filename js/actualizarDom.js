@@ -1,5 +1,3 @@
-// Archivo: actualizarDom.js
-
 export const mostrarElemento = (elemento) => {
     elemento.style.display = 'block';
 };

@@ -1,5 +1,3 @@
-// Archivo: almacenamiento.js
-
 export const guardarDatosEnLocalStorage = (monto, tasa, plazo) => {
     const datos = { monto, tasa, plazo };
     localStorage.setItem('datosInversion', JSON.stringify(datos));

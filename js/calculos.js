@@ -1,5 +1,4 @@
-// Archivo: calculos.js
-// Funciones para manejar los cálculos financieros
+// Funciones para manejar algunos  calculos
 
 export const validarEntradas = (monto, tasa, plazo) => {
     if (isNaN(monto) || monto <= 0) {

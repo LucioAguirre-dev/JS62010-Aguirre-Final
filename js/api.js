@@ -1,5 +1,3 @@
-// Archivo: api.js
-
 export const obtenerDatosDolar = async () => {
     const response = await fetch('https://dolarapi.com/v1/dolares');
     if (!response.ok) {

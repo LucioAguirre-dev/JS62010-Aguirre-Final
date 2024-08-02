@@ -1,4 +1,3 @@
-// Archivo: resultados.js
 
 export const mostrarResultados = (monto, plazo, tasa, montoFinal, ganancia, datosDolar) => {
     const resultadosDiv = document.getElementById('resultados');

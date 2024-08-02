@@ -1,4 +1,4 @@
-// Archivo: mensajes.js
+// mensajitos de error
 
 export const mostrarMensaje = (mensaje) => {
     Swal.fire({
