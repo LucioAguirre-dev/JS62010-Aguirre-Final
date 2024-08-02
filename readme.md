@@ -1,6 +1,4 @@
-╔
 ║ CALCULADORA DE INVERSIONES
-╚
 
 ═══════════════════════════ DESCRIPCIÓN GENERAL ══════════════════════════
 La Calculadora de Inversiones es una herramienta diseñada para ayudar a los
@@ -12,41 +10,22 @@ calculadora estima los detalles de la inversión y proyecta la ganancia en dóla
 
 ═══════════════════════════ FUNCIONALIDADES ══════════════════════════════
 
-╔═
-║ Monto Inicial de Inversión (ARS):
-║ Este campo permite al usuario ingresar la cantidad de dinero que
-║ desea invertir en Pesos Argentinos.
-╚═
+- Monto Inicial de Inversión (ARS):
+  Este campo permite al usuario ingresar la cantidad de dinero que desea invertir en Pesos Argentinos.
 
-╔═
-║ Tasa de Interés Anual (%):
-║ El usuario debe ingresar la tasa de interés anual esperada para la
-║ inversión. Esta tasa es clave para calcular el crecimiento del
-║ capital invertido a lo largo del tiempo.
-╚═
+- Tasa de Interés Anual (%):
+  El usuario debe ingresar la tasa de interés anual esperada para la inversión. Esta tasa es clave para calcular el crecimiento del capital invertido a lo largo del tiempo.
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ Plazo de la Inversión (años):                                        ║
-║ En este campo, el usuario puede especificar el número de años durante║
-║ los cuales planea mantener la inversión. Este dato se utiliza para   ║
-║ calcular el valor futuro de la inversión.                            ║
-╚══════════════════════════════════════════════════════════════════════╝
+- Plazo de la Inversión (años):
+  En este campo, el usuario puede especificar el número de años durante los cuales planea mantener la inversión. Este dato se utiliza para calcular el valor futuro de la inversión.
 
 ═══════════════════════════ RESULTADOS ══════════════════════════════════
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ Detalles de la Inversión:                                            ║
-║ La calculadora muestra un desglose detallado de cómo evolucionará la ║
-║ inversión a lo largo del plazo especificado, teniendo en cuenta la   ║
-║ tasa de interés anual ingresada.                                     ║
-╚══════════════════════════════════════════════════════════════════════╝
+- Detalles de la Inversión:
+  La calculadora muestra un desglose detallado de cómo evolucionará la inversión a lo largo del plazo especificado, teniendo en cuenta la tasa de interés anual ingresada.
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ Ganancia en Dólares:                                                 ║
-║ La herramienta convierte la ganancia estimada en pesos argentinos a  ║
-║ dólares estadounidenses, basándose en diferentes tipos de cambios    ║
-║ tipicamente usados en el contexto actual Argentino                   ║
-╚══════════════════════════════════════════════════════════════════════╝
+- Ganancia en Dólares:
+  La herramienta convierte la ganancia estimada en pesos argentinos a dólares estadounidenses, basándose en diferentes tipos de cambios tipicamente usados en el contexto actual Argentino.
 
 ═══════════════════════════ EJEMPLO DE USO ══════════════════════════════
 
