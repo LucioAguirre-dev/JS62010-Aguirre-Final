@@ -1,0 +1,50 @@
+<!-- 
+
+Entrega final JS.
+Comision:  62010
+Alumno: Lucio Aguirre
+
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Inversiones</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script defer type="module" src="js/main.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Calculadora de Inversiones</h1>
+        <form id="investment-form">
+            <div class="form-group">
+                <label for="monto">Monto Inicial de Inversión en Pesos Argentinos</label>
+                <input type="number" id="monto" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="tasa">Tasa de Interés Anual (%)</label>
+                <input type="number" id="tasa" class="form-control" step="0.01" required>
+            </div>
+            <div class="form-group">
+                <label for="plazo">Plazo de la Inversión (años)</label>
+                <input type="number" id="plazo" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-custom">Calcular</button>
+            <button type="button" id="reset-button" class="btn btn-custom mt-2" style="display: none;">Comenzar de Nuevo</button>
+        </form>
+        <div id="resultados" class="resultados mt-4">
+            <!-- Salida del DOM -->
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
