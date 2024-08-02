@@ -1,6 +1,12 @@
-║ CALCULADORA DE INVERSIONES
+══════════════════════════════════════════════════════════════════════════
+
+════════════════════════ CALCULADORA DE INVERSIONES ══════════════════════
+
+══════════════════════════════════════════════════════════════════════════
+
 
 ═══════════════════════════ DESCRIPCIÓN GENERAL ══════════════════════════
+
 La Calculadora de Inversiones es una herramienta diseñada para ayudar a los
 usuarios a evaluar el rendimiento potencial de una inversión en Pesos Argentinos
 (ARS). La calculadora permite ingresar el Monto Inicial de Inversión, la Tasa de
